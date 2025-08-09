@@ -74,23 +74,35 @@
 ---
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<p align="center">
-  <a href="https://github.com/ezzeldien-farrag/WhatsApp-Automated-Sender">
-    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=WhatsApp-Automated-Sender&theme=dark&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/ezzeldien-farrag/shooterGame">
-    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=shooterGame&theme=dark&border_color=61dafb&border_radius=10">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ezzeldien-farrag/pingponggodot">
-    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=pingponggodot&theme=dark&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag">
-    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=ezzeldien-farrag&theme=dark&border_color=61dafb&border_radius=10">
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ezzeldien-farrag/WhatsApp-Automated-Sender" title="WhatsApp Automated Sender">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=WhatsApp-Automated-Sender&theme=dark&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ezzeldien-farrag/shooterGame" title="Shooter Game">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=shooterGame&theme=dark&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ezzeldien-farrag/pingponggodot" title="Ping Pong Godot">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=pingponggodot&theme=dark&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag" title="Profile Repo">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=ezzeldien-farrag&theme=dark&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h4 align="center">
   <a href="https://github.com/ezzeldien-farrag?tab=repositories">🔎 Show More 🔍</a>
 </h4>
+
