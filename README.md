@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ezzeldien-farrag.ezzeldien-farrag">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,107 +7,90 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ezzeldien-farrag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <!--<code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
-<!--   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
-<!--   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+  <code>
+    <a href="https://www.linkedin.com/in/ezzeldien-farrag/" title="LinkedIn Profile">
+      <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="vertical-align: middle; filter: brightness(0) saturate(100%) invert(29%) sepia(99%) saturate(1963%) hue-rotate(180deg) brightness(92%) contrast(101%);"> LinkedIn
+    </a>
+  </code>
 </h5>
 <br>
+
 <p align="center">
-  Hi, I'm Ezzeldien Farrag, IT Engineer & DevOps Engineer from Egypt
-  <br>
-  <br>
-  🎓 I graduated from El-Shorouk Academy, Department of Computer Science
-  <br>
-  💻 I'm Currently Working as IT Engineer at OMSI Group
-  <br>
-  📚 I’m currently learning DevOps Concepts and Technologies with Eng Azza Khalil
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/ezzeldien-farrag/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="ezzeldienfarrag@gmail.com">ezzeldienfarrag@gmail.com</a>
+  Hi, I'm <b>Ezzeldien Farrag</b>, IT Engineer & DevOps Engineer from Egypt
+  <br><br>
+  🎓 Graduated from <b>El-Shorouk Academy</b>, Computer Science Department  
+  💻 Currently working as <b>IT Engineer</b> at OMSI Group  
+  📚 Learning DevOps Concepts & Technologies with <b>Eng Azza Khalil</b>  
+  💬 Ask me anything <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag/issues">here</a>  
+  📫 Reach me: <a href="mailto:ezzeldienfarrag@gmail.com">ezzeldienfarrag@gmail.com</a>  
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+---
+
+<h2 align="center">🔥 Skills & Tools 🔥</h2>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-<!--   <code><img title="SASS" height="25" src="images/sass.svg"></code> -->
-<!--   <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-<!--   <code><img title="React" height="25" src="images/react-original.svg"></code> -->
-<!--   <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
-<!--   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-<!--   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-<!--   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
-<!--   <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
-<!--   <code><img title="JSON" height="25" src="images/json.svg"></code> -->
-<!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
-<!--   <code><img title="Android" height="25" src="images/android.svg"></code> -->
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-<!--   <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
-<!--   <code><img title="npm" height="25" src="images/npm.svg"></code> -->
-<!--   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
-<!--   <code><img title="Flask" height="25" src="images/flask.png"></code> -->
+  <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img title="Networking" height="40" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png">
+  <img title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img title="Virtualization" height="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
+  <img title="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img title="OOP" height="40" src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png">
+  <img title="Data Structures" height="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248448.png">
+  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="Vagrant" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
 </p>
-<hr>
+
+---
+
+<h2 align="center">📜 Certifications 📜</h2>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1EU7zwPRjsTIQqn25PdUhVJYzXrGqmES8/view">🏆 International Collegiate Programming Contest(ICPC)</a><br>
+  <a href="https://drive.google.com/file/d/1RuzaU4VYTsnIjObjj4iLGLz0QtewNboU/view">📘 Egypt Future Work is Digital (ITIDA)</a><br>
+  <a href="https://www.credly.com/badges/fd52e009-d739-4dc4-909c-6684446a7579/public_url">💼 McKinsey.org Forward Program</a>
+</p>
+
+---
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=ezzeldien-farrag&theme=dark&border=61dafb&hide_border=true">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ezzeldien-farrag&show_icons=true&theme=dark&border_color=61dafb&hide_border=true">
+</p>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldien-farrag&layout=compact&theme=dark&border_color=61dafb&hide_border=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezzeldien-farrag&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+---
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ezzeldien-farrag/WhatsApp-Automated-Sender" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<p align="center">
+  <a href="https://github.com/ezzeldien-farrag/WhatsApp-Automated-Sender">
+    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=WhatsApp-Automated-Sender&theme=dark&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/ezzeldien-farrag/shooterGame">
+    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=shooterGame&theme=dark&border_color=61dafb&border_radius=10">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ezzeldien-farrag/pingponggodot">
+    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=pingponggodot&theme=dark&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag">
+    <img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ezzeldien-farrag&repo=ezzeldien-farrag&theme=dark&border_color=61dafb&border_radius=10">
+  </a>
+</p>
 
 <h4 align="center">
-  <a href="https://github.com/ezzeldien-farrag?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/ezzeldien-farrag?tab=repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-<!--
