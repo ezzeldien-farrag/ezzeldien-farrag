@@ -1,28 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ezzeldien-farrag.ezzeldien-farrag">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ezzeldien+Farrag....;Nice+to+meet+you!&center=true&size=30">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ezzeldien+Farrag....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/ezzeldien-farrag/" title="LinkedIn Profile">
-      <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="vertical-align: middle; filter: brightness(0) saturate(100%) invert(29%) sepia(99%) saturate(1963%) hue-rotate(180deg) brightness(92%) contrast(101%);"> LinkedIn
-    </a>
-  </code>
+  <code><a href="https://github.com/ezzeldien-farrag" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
 </h5>
 <br>
 
 <p align="center">
   Hi, I'm <b>Ezzeldien Farrag</b>, IT Engineer & DevOps Engineer from Egypt
   <br><br>
-  🎓 Graduated from <b>El-Shorouk Academy</b>, Computer Science Department  
-  💻 Currently working as <b>IT Engineer</b> at OMSI Group  
-  📚 Learning DevOps Concepts & Technologies with <b>Eng Azza Khalil</b>  
-  💬 Ask me anything <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag/issues">here</a>  
-  📫 Reach me: <a href="mailto:ezzeldienfarrag@gmail.com">ezzeldienfarrag@gmail.com</a>  
+  🎓 Graduated from <b>El-Shorouk Academy</b>, Computer Science Department  <br>
+  💻 Currently working as <b>IT Engineer</b> at OMSI Group  <br>
+  📚 Learning DevOps Concepts & Technologies with <b>Eng Azza Khalil</b>  <br>
+  💬 Ask me anything <a href="https://github.com/ezzeldien-farrag/ezzeldien-farrag/issues">here</a>  <br>
+  📫 Reach me: <a href="mailto:ezzeldienfarrag@gmail.com">ezzeldienfarrag@gmail.com</a>  <br>
 </p>
 
 ---
